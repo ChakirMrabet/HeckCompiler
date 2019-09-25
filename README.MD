@@ -4,7 +4,7 @@
 
 This is a compiler for HACK computers that converts Virtual Machine byte code into ASM code.
 
-I made this program with C language, as part of the [Nand2Tetris](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file) course.
+I made this program with C language, as part of the [Nand2Tetris](https://www.nand2tetris.org/copy-of-about) course.
 
 ![HECK compiler in action](demo.gif)
 
