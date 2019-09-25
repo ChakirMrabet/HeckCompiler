@@ -1,10 +1,10 @@
-# Hack Virtual Machine Compiler
+#Hack Virtual Machine Compiler
 
 ## Introduction
 
 This is a compiler for HACK computers that converts Virtual Machine byte code into ASM code.
 
-I made this program with C language, as part of the Nand2Tetris course.
+I made this program with C language, as part of the [Nand2Tetris](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file) course.
 
 ![HECK compiler in action](demo.gif)
 
@@ -18,7 +18,7 @@ Use as follows:
 
 `VMTranslator <filename> -c`
 
-Where `-c` when provided, will include comments in the generated ASm file.
+When `-c` is  provided the compiler will include comments in the generated ASM file.
 
 The compiler will generate one single `.asm` file, named after the provided file or directory, containing the generated ASM code.
 
