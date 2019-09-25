@@ -1,4 +1,4 @@
-#Hack Virtual Machine Compiler
+## Hack Virtual Machine Compiler
 
 ## Introduction
 
